@@ -1,0 +1,22 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/blizarazu/Front-End-Web-UI-Frameworks-and-Tools-Coursera",
+  "authors": [
+    "Beñat Lizarazu <blizarazu@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
